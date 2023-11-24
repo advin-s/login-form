@@ -1,0 +1,8 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.form-row-height{
+    height: calc(100vh - 56px);
+}
