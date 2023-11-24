@@ -1,8 +1,18 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
 }
 
+/* container heightsl */
 .form-row-height{
-    height: calc(100vh - 56px);
+    height: calc(100vh - 57.31px);
+}
+
+/* Resetsl */
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
 }
